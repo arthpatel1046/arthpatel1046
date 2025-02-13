@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthpatel1046&label=Profile%20views&color=0e75b6&style=flat" alt="arthpatel1046" /> </p>
-
 <div id="header" align="center">
   <h1>
     Always Learning, Always Coding!
