@@ -26,17 +26,17 @@
 
 I’m a passionate software developer and problem solver, always eager to explore new technologies and build impactful solutions. Currently, I’m advancing my expertise in **web development and backend engineering**, leveraging my skills in **Java, Spring Boot, JavaScript, ReactJS**, and more.  
 
-With a **strong foundation in software development**, I have experience working on full-stack applications, database management, and scalable system designs. My projects range from **building dynamic web applications** to **developing efficient backend architectures** that enhance user experience and performance.  
+With a <b>strong foundation in software development</b>, I have experience working on full-stack applications, database management, and scalable system designs. My projects range from **building dynamic web applications** to **developing efficient backend architectures** that enhance user experience and performance.  
 
 <h3 align="left"> 💡 What I Bring to the Table  </h3>
-- **Proficient in:** Java, JavaScript, Python, C/C++, HTML, CSS  
-- **Frameworks & Tools:** Spring Boot, ReactJS, Thymeleaf, Bootstrap, Git, Docker  
-- **Database Management:** MySQL, PostgreSQL, Firebase  
-- **Development Approach:** Writing clean, maintainable, and scalable code with a focus on best practices and design patterns  
-- **Problem-Solving:** Strong analytical and debugging skills with a knack for optimizing code efficiency  
+- <b>Proficient in:</b> Java, JavaScript, Python, C/C++, HTML, CSS  <br>
+- <b>Frameworks & Tools:</b> Spring Boot, ReactJS, Thymeleaf, Bootstrap, Git, Docker  <br>
+- <b>Database Management:</b> MySQL, PostgreSQL, Firebase  <br>
+- <b>Development Approach:</b> Writing clean, maintainable, and scalable code with a focus on best practices and design patterns  <br>
+- <b>Problem-Solving:</b> Strong analytical and debugging skills with a knack for optimizing code efficiency  
 
 <h3 align="left"> 🚀 Always Learning & Innovating  </h3>
-I believe in continuous growth—whether it's mastering a new framework, contributing to open-source projects, or solving real-world challenges through technology. **Innovation, collaboration, and adaptability** are at the core of my work ethic.  
+I believe in continuous growth—whether it's mastering a new framework, contributing to open-source projects, or solving real-world challenges through technology. <b>Innovation, collaboration, and adaptability</b> are at the core of my work ethic.  
 
 <h3 align="left"> 🤝 Let's Connect!  </h3>
 I’m always open to networking, collaborating on exciting projects, and exchanging ideas with fellow developers. Feel free to connect with me on 
