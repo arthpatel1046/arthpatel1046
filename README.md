@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://as1.ftcdn.net/jpg/10/22/86/26/1000_F_1022862644_a6NMwXqbx42qo2PzeosznQa2DAlruEkg.jpg" width="700" height="350"/>
+  <img src="https://github.com/arthpatel1046/header-images/blob/main/githubHeader.jpg?raw=true" width="700" height="350"/>
 </div>
 
 <div align="center">
